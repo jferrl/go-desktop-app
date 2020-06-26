@@ -8,6 +8,6 @@ esc -o ../../api/static.go -pkg api ./
 
 ## Build go
 
-### MocOS
+### MacOS
 
 go build -o desktopapp.app/Contents/MacOS/desktopapp cmd/go-desktopapp/main.go
